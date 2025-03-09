@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced python development, C# and the .NET framework
 - 💞️ I’m looking to collaborate on all sorts of software, especially optimization softwares for power users.
 - 📫 Contact me on discord @SmashKeyz
-- ⚡ Fun fact: I love modding Minecraft.
+- ⚡ Fun fact: I love modding Retro Platfornmers.
 
 <!---
 RavenKing-cloud/RavenKing-cloud is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
