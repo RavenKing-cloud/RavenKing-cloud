@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RavenKing-cloud owner and operator of Smash Key Studios LLC, as well as Co-Founder of Modern Golf Consulting LLC
-- 👀 I’m interested in video games, programming, art, and nature.
+- 👀 I’m interested in cyber security, video games, programming, art, and nature.
 - 🌱 I’m constantly advancing my skills in Python and Data Science.
 - 💞️ I’m looking to collaborate on all sorts of software, especially optimization softwares for power users.
 - 📫 Contact me on discord @SmashKeyz
